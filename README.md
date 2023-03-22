@@ -1,12 +1,8 @@
 ## About me
 
----
-
 An experienced specialist in data analysis, statistical modeling and developer in data-related industry, currently focusing on django backend development.
 
 ## Tech stack
-
----
 
 Programming languages:
 <li> Python </li>
@@ -27,10 +23,11 @@ Frameworks and important (meta)packages:
 <br>
 
 Other tools:
-<li> git </li>
-<li> bash </li>
+<li> git, bash </li>
+<li> vs code </li>
+<li> RStudio </li>
+<li> Postman </li>
 <br>
 
 ## Reach out to me
 
----
