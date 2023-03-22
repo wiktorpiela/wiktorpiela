@@ -1,16 +1,36 @@
-### Hi there 👋
+## About me
 
-<!--
-**wiktorpiela/wiktorpiela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+An experienced specialist in data analysis, statistical modeling and developer in data-related industry, currently focusing on django backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+---
+
+Programming languages:
+<li> Python </li>
+<li> R </li>
+<li> VBA </li>
+<li> SQL </li>
+<li> C# (basics) </li>
+<br>
+
+Frameworks and important (meta)packages:
+<li> django, django REST framework </li>
+<li> flask (basics) </li>
+<li> shiny </li>
+<li> tidymodels, scikit-learn, xgboost </li>
+<li> tidyverse, pandas, numpy </li>
+<li> matplotlib/seaborn, ggplot2 </li>
+<li> bs4 </li>
+<br>
+
+Other tools:
+<li> git </li>
+<li> bash </li>
+<br>
+
+## Reach out to me
+
+---
