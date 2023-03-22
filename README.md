@@ -30,4 +30,4 @@ Other tools:
 <br>
 
 ## Reach out to me
-<a href="https://www.linkedin.com/in/wiktor-p-44347b207/" rel="nofollow">
+<a href="https://www.linkedin.com/in/wiktor-p-44347b207/" rel="nofollow"> <img src="https://camo.githubusercontent.com/d48e8da814e92af13b47ec6c4ddb8ee24e27f5f6202f8c03266e248b8368857d/68747470733a2f2f692e696d6775722e636f6d2f426136315678422e706e67" width="50" height="50" data-canonical-src="https://i.imgur.com/Ba61VxB.png" style="max-width: 100%;"> </a>
