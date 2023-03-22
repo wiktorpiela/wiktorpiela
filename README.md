@@ -30,4 +30,4 @@ Other tools:
 <br>
 
 ## Reach out to me
-[<img src="https://www.linkedin.com/in/wiktor-p-44347b207/">](https://www.linkedin.com/in/wiktor-p-44347b207/)
+<a href="https://www.linkedin.com/in/wiktor-p-44347b207/" rel="nofollow">
