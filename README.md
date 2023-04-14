@@ -19,6 +19,7 @@ I'm familiar with below technologies:
       <li> Flask (basics) </li>
       <li> shiny </li>
       <li> JavaScript </li>
+      <li> HTML/CSS </li>
   </ul>
   <li> data processing and statistical modeling </li>
   <ul>
