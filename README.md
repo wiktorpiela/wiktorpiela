@@ -6,27 +6,37 @@ An experienced specialist in data analysis, statistical modeling and developer i
 
 Programming languages:
 <li> Python </li>
-<li> R </li>
 <li> VBA </li>
 <li> SQL </li>
-<li> C# (basics) </li>
 <br>
 
-Frameworks and important (meta)packages:
-<li> django, django REST framework </li>
-<li> flask (basics) </li>
-<li> shiny </li>
-<li> tidymodels, scikit-learn, xgboost </li>
-<li> tidyverse, pandas, numpy </li>
-<li> matplotlib/seaborn, ggplot2 </li>
-<li> bs4 </li>
-<br>
+I'm familiar with below technologies:
+<ul>
+  <li> web development </li>
+  <ul>
+      <li> Django </li>
+      <li> Django REST framework </li>
+      <li> Flask (basics) </li>
+      <li> shiny </li>
+      <li> JavaScript </li>
+  </ul>
+  <li> data processing and statistical modeling </li>
+  <ul>
+      <li> tidymodels, tidyverse </li>
+      <li> pandas, scikit-learn, xgboost </li>
+      <li> matplotlib, seaborn, ggplot2 </li>
+  </ul>
+  <li> web scraping </li>
+  <ul>
+      <li> bs4 </li>
+      <li> rvest, httr </li>
+  </ul>
+</ul>
 
 Other tools:
 <li> git, bash </li>
-<li> vs code </li>
-<li> RStudio </li>
 <li> Postman </li>
+<li> R </li>
 <br>
 
 ## Reach out to me
