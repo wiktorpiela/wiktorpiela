@@ -7,10 +7,8 @@ An experienced specialist in data analysis, statistical modeling and developer i
 Programming languages:
 <li> Python </li>
 <li> VBA </li>
-<li> SQL </li>
 <br>
 
-I'm familiar with below technologies:
 <ul>
   <li> web development </li>
   <ul>
@@ -37,6 +35,7 @@ I'm familiar with below technologies:
 Other tools:
 <li> git, bash </li>
 <li> Postman </li>
+<li> R </li>
 <li> R </li>
 <br>
 
