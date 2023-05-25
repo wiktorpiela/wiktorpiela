@@ -1,6 +1,6 @@
 ## About me
 
-An experienced specialist in data analysis, statistical modeling and developer in data-related industry, currently focusing on django backend development.
+An experienced specialist in data analysis, statistical modeling, automation scripting and developer in data-related industry, currently focusing on django backend development.
 
 ## Tech stack
 
@@ -9,8 +9,8 @@ Programming languages:
 <li> VBA </li>
 <br>
 
-
-<ul> Field of interest
+Field of interest:
+<ul> 
     <li> web development </li>
     <ul>
         <li> Django </li>
