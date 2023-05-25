@@ -9,34 +9,32 @@ Programming languages:
 <li> VBA </li>
 <br>
 
+<li> web development </li>
 <ul>
-  <li> web development </li>
-  <ul>
-      <li> Django </li>
-      <li> Django REST framework </li>
-      <li> Flask (basics) </li>
-      <li> shiny </li>
-      <li> JavaScript </li>
-      <li> HTML/CSS </li>
-  </ul>
-  <li> data processing and statistical modeling </li>
-  <ul>
-      <li> tidymodels, tidyverse </li>
-      <li> pandas, scikit-learn, xgboost </li>
-      <li> matplotlib, seaborn, ggplot2 </li>
-  </ul>
-  <li> web scraping </li>
-  <ul>
-      <li> bs4 </li>
-      <li> rvest, httr </li>
-  </ul>
+    <li> Django </li>
+    <li> Django REST framework </li>
+    <li> Flask (basics) </li>
+    <li> shiny </li>
+    <li> JavaScript </li>
+    <li> HTML/CSS </li>
+</ul>
+<li> data processing and statistical modeling </li>
+<ul>
+    <li> tidymodels, tidyverse </li>
+    <li> numpy, pandas, scikit-learn, sqlalchemy </li>
+    <li> matplotlib, seaborn, ggplot2 </li>
+</ul>
+<li> web scraping </li>
+<ul>
+    <li> bs4 </li>
+    <li> rvest, httr </li>
 </ul>
 
 Other tools:
 <li> git, bash </li>
 <li> Postman </li>
 <li> R </li>
-<li> R </li>
+<li> SQL </li>
 <br>
 
 ## Reach out to me
