@@ -29,6 +29,7 @@ Field of interest:
     <li> web scraping </li>
     <ul>
         <li> bs4 </li>
+        <li> selenium </li>
         <li> rvest, httr </li>
     </ul>
 
