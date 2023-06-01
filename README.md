@@ -13,7 +13,7 @@ Field of interest:
 <ul> 
     <li> web development </li>
     <ul>
-        <li> django and django rest framework </li>
+        <li> django, django rest framework </li>
         <li> flask (basics) </li>
         <li> shiny </li>
         <li> HTML/CSS(flexbox)/JS </li>
