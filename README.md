@@ -14,9 +14,9 @@ Field of interest:
     <li> web development </li>
     <ul>
         <li> django, django rest framework </li>
-        <li> flask (basics) </li>
+        <li> Javascript </li>
         <li> shiny </li>
-        <li> HTML/CSS(flexbox)/JS </li>
+        <li> HTML/CSS(flexbox)
     </ul>
     <li> data processing and statistical modeling </li>
     <ul>
