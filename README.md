@@ -1,27 +1,30 @@
 ## About me
 
-An experienced specialist in data analysis, statistical modeling, automation scripting and developer in data-related industry, currently focusing on django backend development.
+An experienced specialist in data analysis, statistical modeling, automation scripting and developer in data-related industry, currently focusing on web apps backend development.
 
 ## Tech stack
 
 Programming languages:
 <li> Python </li>
 <li> VBA </li>
+<li> Javascript </li>
 <br>
 
 Field of interest:
 <ul> 
     <li> web development </li>
     <ul>
-        <li> django, django rest framework </li>
-        <li> Javascript </li>
+        <li> django </li>
+        <li> django rest framework </li>
+        <li> FastApi </li>
         <li> shiny </li>
-        <li> HTML/CSS(flexbox)
+        <li> HTML/CSS(flexbox) </li>
+        <li> sqlalchemy </li>
     </ul>
     <li> data processing and statistical modeling </li>
     <ul>
         <li> tidymodels, tidyverse </li>
-        <li> numpy, pandas, scikit-learn, sqlalchemy </li>
+        <li> numpy, pandas, scikit-learn </li>
         <li> matplotlib, seaborn, ggplot2 </li>
     </ul>
     <li> web scraping </li>
