@@ -16,6 +16,7 @@ Fields of interest:
         <li> django, django rest framework </li>
         <li> Flask, Flask-API </li>
         <li> SQLalchemy </li>
+        <li> REST API </li>
         <li> HTML/CSS </li>
         <li> VanillaJS </li>
         <li> ReactJS </li>
