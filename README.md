@@ -6,32 +6,31 @@ An experienced specialist in data analysis, statistical modeling, automation scr
 
 Programming languages:
 <li> Python </li>
-<li> VBA </li>
 <li> Javascript </li>
 <br>
 
-Field of interest:
+Fields of interest:
 <ul> 
     <li> web development </li>
     <ul>
-        <li> django </li>
-        <li> django rest framework </li>
-        <li> FastApi </li>
-        <li> shiny </li>
-        <li> HTML/CSS(flexbox) </li>
-        <li> sqlalchemy </li>
+        <li> django, django rest framework </li>
+        <li> Flask, Flask-API </li>
+        <li> SQLalchemy </li>
+        <li> HTML/CSS </li>
+        <li> VanillaJS </li>
+        <li> ReactJS </li>
     </ul>
-    <li> data processing and statistical modeling </li>
+    <li> machine learning </li>
     <ul>
-        <li> tidymodels, tidyverse </li>
-        <li> numpy, pandas, scikit-learn </li>
-        <li> matplotlib, seaborn, ggplot2 </li>
+        <li> numpy, pandas </li>
+        <li> scikit-learn </li>
+        <li> xgboost, catboost </li>
+        <li> tensorflow </li>
     </ul>
-    <li> web scraping </li>
+    <li> process automation and robotics </li>
     <ul>
-        <li> bs4 </li>
-        <li> selenium </li>
-        <li> rvest, httr </li>
+        <li> VBA </li>
+        <li> openpyxl </li>
     </ul>
 </ul>
 
